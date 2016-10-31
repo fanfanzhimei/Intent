@@ -33,7 +33,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
         Intent intent  = new Intent();
         intent.setAction("com.zhi.meimei");
         intent.addCategory("com.zhi.yugong");
-//        intent.setData(Uri.parse("zhi://www.zhi.com"));
         intent.setDataAndType(Uri.parse("zhi://www.zhi.com/zhi"), "image/png");
         startActivity(intent);
     }
