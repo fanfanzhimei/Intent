@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_one">这是MainActivity</string>
+    <string name="str_two">这是OtherActivity</string>
+    <string name="str_two_label">OtherActivity</string>
+</resources>
